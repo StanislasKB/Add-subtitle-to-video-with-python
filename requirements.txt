@@ -1,0 +1,4 @@
+pysrt
+webvtt-py 
+moviepy
+imagemagick
